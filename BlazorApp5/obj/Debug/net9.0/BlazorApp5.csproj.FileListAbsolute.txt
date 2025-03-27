@@ -80,4 +80,4 @@ C:\Users\alexa\RiderProjects\BlazorApp5\BlazorApp5\obj\Debug\net9.0\BlazorApp5.p
 C:\Users\alexa\RiderProjects\BlazorApp5\BlazorApp5\obj\Debug\net9.0\BlazorApp5.genruntimeconfig.cache
 C:\Users\alexa\RiderProjects\BlazorApp5\BlazorApp5\obj\Debug\net9.0\ref\BlazorApp5.dll
 C:\Users\alexa\RiderProjects\BlazorApp5\BlazorApp5\obj\Debug\net9.0\BlazorApp5.sourcelink.json
-C:\Users\alexa\RiderProjects\BlazorApp5\BlazorApp5\obj\Debug\net9.0\compressed\fhanon0640-xm9p18kxyq.gz
+C:\Users\alexa\RiderProjects\BlazorApp5\BlazorApp5\obj\Debug\net9.0\compressed\fhanon0640-5rkayj8ss7.gz

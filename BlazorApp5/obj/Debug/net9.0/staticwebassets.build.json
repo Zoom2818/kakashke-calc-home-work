@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N1liHwfm1INZQ8Hxt1cJ1/cbc2Szyo6m0sSFRKNHiQo=",
+  "Hash": "h24wDebRyIADGrEAYCPqFHHoyIsv+P9x3Y/wmfaO27o=",
   "Source": "BlazorApp5",
   "BasePath": "_content/BlazorApp5",
   "Mode": "Default",
@@ -332,12 +332,12 @@
       "OriginalItemSpec": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\obj\\Debug\\net9.0\\compressed\\fhanon0640-xm9p18kxyq.gz",
+      "Identity": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\obj\\Debug\\net9.0\\compressed\\fhanon0640-5rkayj8ss7.gz",
       "SourceId": "BlazorApp5",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/BlazorApp5",
-      "RelativePath": "app#[.{fingerprint=xm9p18kxyq}]?.css.gz",
+      "RelativePath": "app#[.{fingerprint=5rkayj8ss7}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -346,8 +346,8 @@
       "RelatedAsset": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\wwwroot\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dn36oni5f8",
-      "Integrity": "B3Qqo1D7V0SedRNb53tleT0hq3rf2xH4vHeskqZAKxU=",
+      "Fingerprint": "0x1h1p5ccx",
+      "Integrity": "9BiGvvp1v3txtF4TDesPPB9eeajXOpo5B7WrwjYGLrY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\wwwroot\\app.css"
@@ -1060,8 +1060,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xm9p18kxyq",
-      "Integrity": "CT5ebZDFMaIaxsopy76rUCsZUbYYPfSCmfvTEOg54NA=",
+      "Fingerprint": "5rkayj8ss7",
+      "Integrity": "kZU4tSvELPVQJ4FIzHFJnTX8Ylm+X4Mk1Kuf33xTlnM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
@@ -2014,13 +2014,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "app.css",
-      "AssetFile": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\obj\\Debug\\net9.0\\compressed\\fhanon0640-xm9p18kxyq.gz",
+      "Route": "app.5rkayj8ss7.css",
+      "AssetFile": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\obj\\Debug\\net9.0\\compressed\\fhanon0640-5rkayj8ss7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000619962802"
+          "Quality": "0.000592768228"
         }
       ],
       "ResponseHeaders": [
@@ -2030,19 +2030,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1612"
+          "Value": "1686"
         },
         {
           "Name": "ETag",
-          "Value": "\"B3Qqo1D7V0SedRNb53tleT0hq3rf2xH4vHeskqZAKxU=\""
+          "Value": "\"9BiGvvp1v3txtF4TDesPPB9eeajXOpo5B7WrwjYGLrY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:19:49 GMT"
+          "Value": "Thu, 27 Mar 2025 15:23:03 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2058,18 +2058,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CT5ebZDFMaIaxsopy76rUCsZUbYYPfSCmfvTEOg54NA=\""
+          "Value": "W/\"kZU4tSvELPVQJ4FIzHFJnTX8Ylm+X4Mk1Kuf33xTlnM=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "5rkayj8ss7"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-CT5ebZDFMaIaxsopy76rUCsZUbYYPfSCmfvTEOg54NA="
+          "Value": "sha256-kZU4tSvELPVQJ4FIzHFJnTX8Ylm+X4Mk1Kuf33xTlnM="
         }
       ]
     },
     {
-      "Route": "app.css",
+      "Route": "app.5rkayj8ss7.css",
       "AssetFile": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2079,7 +2087,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3020"
+          "Value": "3209"
         },
         {
           "Name": "Content-Type",
@@ -2087,121 +2095,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CT5ebZDFMaIaxsopy76rUCsZUbYYPfSCmfvTEOg54NA=\""
+          "Value": "\"kZU4tSvELPVQJ4FIzHFJnTX8Ylm+X4Mk1Kuf33xTlnM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:19:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-CT5ebZDFMaIaxsopy76rUCsZUbYYPfSCmfvTEOg54NA="
-        }
-      ]
-    },
-    {
-      "Route": "app.css.gz",
-      "AssetFile": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\obj\\Debug\\net9.0\\compressed\\fhanon0640-xm9p18kxyq.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1612"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"B3Qqo1D7V0SedRNb53tleT0hq3rf2xH4vHeskqZAKxU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:19:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-B3Qqo1D7V0SedRNb53tleT0hq3rf2xH4vHeskqZAKxU="
-        }
-      ]
-    },
-    {
-      "Route": "app.xm9p18kxyq.css",
-      "AssetFile": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\obj\\Debug\\net9.0\\compressed\\fhanon0640-xm9p18kxyq.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000619962802"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1612"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"B3Qqo1D7V0SedRNb53tleT0hq3rf2xH4vHeskqZAKxU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:19:49 GMT"
+          "Value": "Thu, 27 Mar 2025 15:23:03 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"CT5ebZDFMaIaxsopy76rUCsZUbYYPfSCmfvTEOg54NA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xm9p18kxyq"
+          "Value": "5rkayj8ss7"
         },
         {
           "Name": "label",
@@ -2209,13 +2117,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CT5ebZDFMaIaxsopy76rUCsZUbYYPfSCmfvTEOg54NA="
+          "Value": "sha256-kZU4tSvELPVQJ4FIzHFJnTX8Ylm+X4Mk1Kuf33xTlnM="
         }
       ]
     },
     {
-      "Route": "app.xm9p18kxyq.css",
-      "AssetFile": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\wwwroot\\app.css",
+      "Route": "app.5rkayj8ss7.css.gz",
+      "AssetFile": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\obj\\Debug\\net9.0\\compressed\\fhanon0640-5rkayj8ss7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2224,7 +2132,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3020"
+          "Value": "1686"
         },
         {
           "Name": "Content-Type",
@@ -2232,56 +2140,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CT5ebZDFMaIaxsopy76rUCsZUbYYPfSCmfvTEOg54NA=\""
+          "Value": "\"9BiGvvp1v3txtF4TDesPPB9eeajXOpo5B7WrwjYGLrY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:19:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xm9p18kxyq"
-        },
-        {
-          "Name": "label",
-          "Value": "app.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CT5ebZDFMaIaxsopy76rUCsZUbYYPfSCmfvTEOg54NA="
-        }
-      ]
-    },
-    {
-      "Route": "app.xm9p18kxyq.css.gz",
-      "AssetFile": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\obj\\Debug\\net9.0\\compressed\\fhanon0640-xm9p18kxyq.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1612"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"B3Qqo1D7V0SedRNb53tleT0hq3rf2xH4vHeskqZAKxU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:19:49 GMT"
+          "Value": "Thu, 27 Mar 2025 15:23:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2299,7 +2162,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xm9p18kxyq"
+          "Value": "5rkayj8ss7"
         },
         {
           "Name": "label",
@@ -2307,7 +2170,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-B3Qqo1D7V0SedRNb53tleT0hq3rf2xH4vHeskqZAKxU="
+          "Value": "sha256-9BiGvvp1v3txtF4TDesPPB9eeajXOpo5B7WrwjYGLrY="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\obj\\Debug\\net9.0\\compressed\\fhanon0640-5rkayj8ss7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000592768228"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1686"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9BiGvvp1v3txtF4TDesPPB9eeajXOpo5B7WrwjYGLrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 15:23:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kZU4tSvELPVQJ4FIzHFJnTX8Ylm+X4Mk1Kuf33xTlnM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZU4tSvELPVQJ4FIzHFJnTX8Ylm+X4Mk1Kuf33xTlnM="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3209"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kZU4tSvELPVQJ4FIzHFJnTX8Ylm+X4Mk1Kuf33xTlnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 15:23:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZU4tSvELPVQJ4FIzHFJnTX8Ylm+X4Mk1Kuf33xTlnM="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "C:\\Users\\alexa\\RiderProjects\\BlazorApp5\\BlazorApp5\\obj\\Debug\\net9.0\\compressed\\fhanon0640-5rkayj8ss7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1686"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9BiGvvp1v3txtF4TDesPPB9eeajXOpo5B7WrwjYGLrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 15:23:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9BiGvvp1v3txtF4TDesPPB9eeajXOpo5B7WrwjYGLrY="
         }
       ]
     },

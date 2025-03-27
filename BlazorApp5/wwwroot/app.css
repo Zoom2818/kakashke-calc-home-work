@@ -61,7 +61,19 @@ h1:focus {
 
 
 .table-calc {
-    border: 1px solid black; 
-    border-top: 3px solid gray;
+    border: 1px groove gray; 
+    border-top: 2px solid black;
     background-color: lightgray;
+}
+
+.Calctable{
+    max-width: 400px;
+    width: 400px;
+}
+.Calctable td{
+    border: 2px solid darkcyan;
+}
+.Calctable button{
+    width: 100%;
+    border: 3px darkgrey solid;
 }
